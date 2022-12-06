@@ -153,8 +153,6 @@
                         &trans      &trans    &trans                                  &trans    &trans  &trans
                         >;
                 };
-        };
-
 
         tmux_layer {
         bindings = <
@@ -164,6 +162,9 @@
                          &trans &trans     &trans                                  &trans    &trans    &trans
         >;
         };	
+
+        };
+
 };
 
 
